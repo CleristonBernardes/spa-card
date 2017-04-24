@@ -1,0 +1,6 @@
+
+server:
+  port: 8081
+
+database:
+  connection: "mongodb://localhost/spa"

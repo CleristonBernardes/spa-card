@@ -1,0 +1,30 @@
+{
+  "name": "SPA Card",
+  "version": "0.0.1",
+  "description": "SPA Card management",
+  "readme": "README.md",
+  "main": "server/server.coffee",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Creative-Licence-Digital/cigars.com.git"
+  },
+  "keywords": [
+    "SPA",
+    "card",
+    "SPA Card"
+  ],
+  "author": "cleristonbernardes@gmail.com",
+  "license": "ISC",
+  "homepage": "https://github.com/cleristonbernardes/spa-card",
+  "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "coffee-script": "^1.10.0",
+    "config": "^1.21.0",
+    "js-yaml": "^3.6.1",
+    "moment": "^2.10.6",
+    "moment-timezone": "^0.5.5",
+    "mongodb": "^2.1.18",
+    "mongoose": "^4.5.2",
+    "underscore": "^1.8.3"
+  }
+}
